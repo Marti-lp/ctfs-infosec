@@ -43,11 +43,11 @@ The main goals behind these challenges were:
 #### **MicMic**
 - **Difficulty:** Advanced
 - **Category:** Malware Analysis 
-- **Description:** A Linux-only executable that spawns multiple threads. While the main thread performs disruptive actions (e.g., opening the browser), a secondary thread writes the flag into memory. If execution continues normally, the main thread deletes the binary.
+- **Description:** A Linux-only executable that spawns multiple threads. While the main thread performs disruptive actions, a secondary thread writes the flag into memory. If execution continues normally, the main thread deletes the binary.
 - **Focus:**  Dynamic analysis, thread behavior inspection, memory monitoring, and timing-based analysis techniques.
 
 
 ## Note
-Some challenges intentionally provide **only binaries** to participants, reflecting realistic malware analysis and reverse engineering scenarios. When source code is present, it is provided strictly for educational purposes.
+Some challenges intentionally provide **only binaries** to participants, reflecting realistic malware analysis and reverse engineering scenarios. When source code is present, it is provided strictly for educational purposes. As always, pwd for the zipped binaries is **infected**.
 
 
