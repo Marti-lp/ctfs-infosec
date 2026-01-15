@@ -1,5 +1,5 @@
 # CTF Challenges
-This repository contains a collection of CTF-style challenges developed for recurring cybersecurity community events held over multiple years.
+This repository contains a collection of CTF-style challenges developed for cybersecurity community events.
 
 The challenges were designed for two distinct contexts:
 - An **introductory event** aimed at IT students, with the goal of providing their first hands-on exposure to cybersecurity concepts.
