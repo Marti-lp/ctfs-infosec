@@ -1,9 +1,7 @@
 # CTF Challenges
 This repository contains a collection of CTF-style challenges developed for cybersecurity community events.
 
-The challenges were designed for two distinct contexts:
-- An **introductory event** aimed at IT students, with the goal of providing their first hands-on exposure to cybersecurity concepts.
-- A **technical security conference** (Ekoparty) featuring more advanced, competitive challenges with prizes, targeting an experienced audience.
+The challenges were designed for two distinct contexts. First, an **introductory event** aimed at IT students with the goal of providing their first hands-on exposure to cybersecurity concepts. On the other hand, a **technical security conference** (Ekoparty) featuring more competitive challenges targeting an experienced audience.
 
 The main goals behind these challenges were:
 - Introduce foundational security concepts through hands-on problem solving.
