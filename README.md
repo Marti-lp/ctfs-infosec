@@ -16,8 +16,8 @@ The main goals behind these challenges were:
 #### **A plena vista**
 - **Difficulty:** Beginner
 - **Category:** Steganography / Encoding
-- **Description:** A set of images containing hidden encoded strings in different places, like metadata. Each string can be extracted using common steganography tools and decoded using classic encoding schemes.  When combined, the decoded strings form the final flag.
-- **Focus:** Familiarization with basic steganography concepts and common encoding techniques.
+- **Description:** A set of images containing hidden encoded strings in different places, like metadata. Each string can be extracted using common steganography tools and decoded using encoding algorithms.  When combined, the decoded strings form the final flag.
+- **Focus:** Familiarization with file information and basic cryptography.
 
 
 #### **Get the Plant**
