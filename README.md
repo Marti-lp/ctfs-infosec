@@ -6,8 +6,7 @@ The challenges were designed for two distinct contexts. First, an **introductory
 The main goals behind these challenges were:
 - Introduce foundational security concepts through hands-on problem solving.
 - Encourage interest in cybersecurity among students and early practitioners.
-- Provide technically engaging challenges for advanced conference attendees.
-- Demonstrate core concepts in reverse engineering, binary analysis, memory inspection, and basic exploitation.
+- Provide technically engaging, malware-oriented challenges for advanced conference attendees.
 
 
 ## Overview
