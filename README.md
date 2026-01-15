@@ -22,7 +22,6 @@ The main goals behind these challenges were:
 - **Description:** A set of images containing hidden encoded strings in different places, like metadata. Each string can be extracted using common steganography tools and decoded using classic encoding schemes.  When combined, the decoded strings form the final flag.
 - **Focus:** Familiarization with basic steganography concepts and common encoding techniques.
 
----
 
 #### **Get the Plant**
 - **Difficulty:** Intermediate
@@ -40,7 +39,6 @@ The main goals behind these challenges were:
 - **Description:** An obfuscated malicious executable that creates and deletes an `.asm` file at runtime. Recovering this file, linking, compiling, and executing it reveals the flag in binary form.
 - **Focus:** Dynamic analysis, behavior inspection, Windows event monitoring.
 
----
 
 #### **MicMic**
 - **Difficulty:** Advanced
