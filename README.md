@@ -47,3 +47,5 @@ The main goals behind these challenges were:
 - **Focus:**  Dynamic analysis, thread behavior inspection, memory monitoring, and timing-based analysis techniques.
 
 
+## Notes
+- Some challenges intentionally provide **only binaries** to participants, reflecting realistic malware analysis and reverse engineering scenarios. When source code is present, it is provided strictly for educational purposes.
