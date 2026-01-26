@@ -3,12 +3,6 @@ This repository contains a collection of CTF-style challenges developed for cybe
 
 The challenges were designed for two distinct contexts. First, an **introductory event** aimed at IT students with the goal of providing their first hands-on exposure to cybersecurity concepts. On the other hand, a **technical security conference** (Ekoparty) featuring more competitive challenges targeting an experienced audience.
 
-The main goals behind these challenges were:
-- Introduce foundational security concepts through hands-on problem solving.
-- Encourage interest in cybersecurity among students and early practitioners.
-- Provide technically engaging, malware-oriented challenges for advanced conference attendees.
-
-
 ## Overview
 
 ### Introductory Event Challenges
